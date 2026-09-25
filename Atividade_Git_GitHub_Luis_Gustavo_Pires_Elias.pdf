@@ -1,0 +1,133 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3920 >>
+stream
+0.080 0.160 0.300 rg 0 746 595 96 re f
+0.720 0.840 1.000 rg BT /F2 12 Tf 1 0 0 1 42 804 Tm (ATIVIDADE INDIVIDUAL) Tj ET
+1.000 1.000 1.000 rg BT /F2 23 Tf 1 0 0 1 42 773 Tm (Comandos Git e GitHub) Tj ET
+0.130 0.180 0.250 rg BT /F2 11 Tf 1 0 0 1 42 717 Tm (Aluno: Luis Gustavo Pires Elias) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 42 699 Tm (Matrícula: 36020690) Tj ET
+0.780 0.830 0.890 RG 0.7 w 42 687 m 553 687 l S
+0.400 0.460 0.530 rg BT /F1 8 Tf 1 0 0 1 42 35 Tm (UNINASSAU  |  Fundamentos de versionamento) Tj ET
+0.400 0.460 0.530 rg BT /F1 8 Tf 1 0 0 1 520 35 Tm (1/2) Tj ET
+0.080 0.160 0.300 rg BT /F2 14 Tf 1 0 0 1 42 663 Tm (1. Git: comandos no computador) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.5 Tf 1 0 0 1 42 645 Tm (Git registra versões dos arquivos e permite trabalhar com ramificações.) Tj ET
+0.930 0.960 0.990 rg 42 594 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 614 Tm (git config --global user.name "Nome") Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 599 Tm (Define o nome que aparecerá nos commits.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 579 Tm (git config --global user.email "email") Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 564 Tm (Define o e-mail de autoria dos commits.) Tj ET
+0.930 0.960 0.990 rg 42 524 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 544 Tm (git init) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 529 Tm (Cria um repositório Git na pasta atual.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 509 Tm (git clone URL) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 494 Tm (Copia um repositório remoto para o computador.) Tj ET
+0.930 0.960 0.990 rg 42 454 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 474 Tm (git status) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 459 Tm (Mostra a branch atual e os arquivos alterados ou preparados.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 439 Tm (git add arquivo) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 424 Tm (Prepara um arquivo para o próximo commit; git add . prepara todos.) Tj ET
+0.930 0.960 0.990 rg 42 384 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 404 Tm (git commit -m "Mensagem") Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 389 Tm (Salva um conjunto de mudanças no histórico local.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 369 Tm (git log --oneline) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 354 Tm (Exibe o histórico resumido dos commits.) Tj ET
+0.930 0.960 0.990 rg 42 314 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 334 Tm (git diff) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 319 Tm (Mostra as diferenças ainda não preparadas.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 299 Tm (git branch) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 284 Tm (Lista as branches locais.) Tj ET
+0.930 0.960 0.990 rg 42 244 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 264 Tm (git switch -c nova-branch) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 249 Tm (Cria uma branch e muda para ela.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 229 Tm (git merge nome-da-branch) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 214 Tm (Integra a branch indicada à branch atual.) Tj ET
+0.930 0.960 0.990 rg 42 174 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 194 Tm (git pull) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 179 Tm (Busca e integra alterações do repositório remoto.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 159 Tm (git push -u origin main) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 144 Tm (Envia a branch main ao remoto e define seu rastreamento.) Tj ET
+0.080 0.160 0.300 rg BT /F2 9.3 Tf 1 0 0 1 42 113 Tm (Observação:) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.3 Tf 1 0 0 1 105 113 Tm (Git funciona localmente; GitHub hospeda repositórios e facilita colaboração.) Tj ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3548 >>
+stream
+0.080 0.160 0.300 rg 0 746 595 96 re f
+0.720 0.840 1.000 rg BT /F2 12 Tf 1 0 0 1 42 804 Tm (ATIVIDADE INDIVIDUAL) Tj ET
+1.000 1.000 1.000 rg BT /F2 23 Tf 1 0 0 1 42 773 Tm (Comandos Git e GitHub) Tj ET
+0.130 0.180 0.250 rg BT /F2 11 Tf 1 0 0 1 42 717 Tm (Aluno: Luis Gustavo Pires Elias) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 42 699 Tm (Matrícula: 36020690) Tj ET
+0.780 0.830 0.890 RG 0.7 w 42 687 m 553 687 l S
+0.400 0.460 0.530 rg BT /F1 8 Tf 1 0 0 1 42 35 Tm (UNINASSAU  |  Fundamentos de versionamento) Tj ET
+0.400 0.460 0.530 rg BT /F1 8 Tf 1 0 0 1 520 35 Tm (2/2) Tj ET
+0.080 0.160 0.300 rg BT /F2 14 Tf 1 0 0 1 42 663 Tm (2. GitHub: comandos da interface gh) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.5 Tf 1 0 0 1 42 645 Tm (gh é a ferramenta de linha de comando do GitHub; requer autenticação.) Tj ET
+0.930 0.960 0.990 rg 42 594 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 614 Tm (gh auth login) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 599 Tm (Conecta a ferramenta à conta do GitHub.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 577 Tm (gh repo create UNINASSAU --private) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 562 Tm (Cria o repositório privado com o nome solicitado.) Tj ET
+0.930 0.960 0.990 rg 42 520 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 540 Tm (gh repo clone USUARIO/UNINASSAU) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 525 Tm (Baixa o repositório da conta indicada.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 503 Tm (gh repo view --web) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 488 Tm (Abre o repositório atual no navegador.) Tj ET
+0.930 0.960 0.990 rg 42 446 511 34 re f
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 466 Tm (gh issue create) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 451 Tm (Abre uma tarefa ou relato de problema no projeto.) Tj ET
+0.130 0.340 0.620 rg BT /F2 9.2 Tf 1 0 0 1 51 429 Tm (gh pr create) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.2 Tf 1 0 0 1 51 414 Tm (Propõe integrar alterações de uma branch por pull request.) Tj ET
+0.080 0.160 0.300 rg BT /F2 14 Tf 1 0 0 1 42 384 Tm (3. Fluxo básico de trabalho) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 51 358 Tm (1. Criar ou clonar o repositório e editar os arquivos.) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 51 336 Tm (2. Conferir as alterações com git status e git diff.) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 51 314 Tm (3. Preparar os arquivos com git add e registrar com git commit.) Tj ET
+0.130 0.180 0.250 rg BT /F1 10 Tf 1 0 0 1 51 292 Tm (4. Publicar a branch com git push e compartilhar o link do repositório.) Tj ET
+0.080 0.160 0.300 rg BT /F2 14 Tf 1 0 0 1 42 244 Tm (4. Recursos do GitHub) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.5 Tf 1 0 0 1 51 222 Tm (Repositório: armazena arquivos e histórico. Issues: organizam tarefas.) Tj ET
+0.130 0.180 0.250 rg BT /F1 9.5 Tf 1 0 0 1 51 204 Tm (Pull requests: permitem revisar e integrar mudanças. Actions: automatizam tarefas.) Tj ET
+0.080 0.160 0.300 rg BT /F2 10 Tf 1 0 0 1 42 167 Tm (Referências oficiais) Tj ET
+0.130 0.180 0.250 rg BT /F1 8.5 Tf 1 0 0 1 51 149 Tm (Git Reference - https://git-scm.com/docs) Tj ET
+0.130 0.180 0.250 rg BT /F1 8.5 Tf 1 0 0 1 51 134 Tm (GitHub CLI Manual - https://cli.github.com/manual/) Tj ET
+0.130 0.180 0.250 rg BT /F1 8.5 Tf 1 0 0 1 51 119 Tm (GitHub Docs - https://docs.github.com/en/repositories) Tj ET
+0.400 0.460 0.530 rg BT /F1 9 Tf 1 0 0 1 42 82 Tm (Em repositórios privados, somente usuários autorizados conseguem abrir o link.) Tj ET
+
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000004434 00000 n 
+0000004570 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+8170
+%%EOF
